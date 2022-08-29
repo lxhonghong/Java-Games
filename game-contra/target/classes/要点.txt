@@ -1,0 +1,9 @@
+JFrame 窗体
+JLabel 标签 setIcon(图)可以用来画图
+JPanel 面板 放置组件的容器
+JLayeredPane 分层的面板，控制元素的深度
+
+组件通用的方法
+  setBounds(x,y,width,height)
+  add方法添加子控件
+  remove移除子控件
